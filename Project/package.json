@@ -12,7 +12,7 @@
     "@azure/logger": "1.0.0"
   },
   "scripts": {
-    "start": "webpack-dev-server --port 8080 --mode development",
+    "start": "webpack-dev-server --port 80 --mode development",
     "build": "webpack --mode development"
   },
   "devDependencies": {
